@@ -432,9 +432,7 @@ public class MenuBar extends JMenuBar
          }
          aboutPane = new JTextPane();
          aboutPane.setEditable(false);
-         aboutPane.setText("Pseu2Code: Pseudo Code Editor\n" + "\n" + "Version: 2019-05-12\n"
-                              + "(c) Copyright Bilkent contributors and others, 2019.  \n"
-                              + "All rights reserved. Pseu2Code and the Pseu2Code logo are trademarks of the The Last Stand Group.");
+         aboutPane.setText("Pseu2Code: Pseudo Code Editor\n" + "\n" + "Version: 2019-05-12");
          setLayout(new GridBagLayout());
          add(logo);
          add(aboutPane);
