@@ -168,21 +168,15 @@ public class StepNavigator extends JPanel {
    }
    
    public class TreeClicker implements MouseListener, ActionListener {
+      //we will not be using these mouse events as we only need the mouse pressed event
+      @Override
+      public void mouseClicked(MouseEvent e) {}
       
       @Override
-      public void mouseClicked(MouseEvent e) {
-         
-      }
+      public void mouseEntered(MouseEvent e) {}
       
       @Override
-      public void mouseEntered(MouseEvent e) {
-         
-      }
-      
-      @Override
-      public void mouseExited(MouseEvent e) {
-         
-      }
+      public void mouseExited(MouseEvent e) {}
       
       @Override
       public void mousePressed(MouseEvent e) {
