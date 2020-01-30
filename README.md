@@ -25,4 +25,4 @@ Pseu2Code is a program that helps developing algorithms. Pseu2Code helps the use
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     GNU General Public License for more details.
 
-    For more information, see <https://www.gnu.org/licenses/>.
+    For more information, see https://www.gnu.org/licenses/.
