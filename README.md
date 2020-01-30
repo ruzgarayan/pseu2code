@@ -3,8 +3,8 @@ Pseu2Code is a branching algorithm editor.
 
 ## Table of contents
 * [General info](#general-info)
-* [Technologies](#introduction)
-* [Setup](#license)
+* [Introduction](#introduction)
+* [License](#license)
 
 ## General Info
 This is a project made in our second semester in Bilkent University. This project was the outcome of five individuals combined efforts. Each member has forked the project to show their involvement.
